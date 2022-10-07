@@ -7,6 +7,6 @@ int Policz(int a, int b){
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "W trzecim branchu; 2 / 3 = " << Policz(2, 3);
+    std::cout << "W trzecim branchu; 4 / 2 = " << Policz(4, 2);
     return 0;
 }
