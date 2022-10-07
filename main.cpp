@@ -2,11 +2,11 @@
 
 
 int Policz(int a, int b){
-    return a - b; // Zmiana dodawania na odejmowanie
+    return a / b; // Zmiana dodawania na dzielenie
 }
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "W trzecim branchu; 2 - 3 = " << Policz(2, 3);
+    std::cout << "W trzecim branchu; 2 / 3 = " << Policz(2, 3);
     return 0;
 }
