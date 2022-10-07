@@ -2,7 +2,7 @@
 
 
 int Policz(int a, int b){
-    return a / b; // Zmiana dodawania na dzielenie
+    return a / b; //Zmiana dodawania na dzielenie
 }
 
 int main() {
