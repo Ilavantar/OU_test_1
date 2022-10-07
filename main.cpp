@@ -1,5 +1,6 @@
 #include <iostream>
 
+//Nowa metoda
 int Policz(int a, int b){
     return a + b;
 }
